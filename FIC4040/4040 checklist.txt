@@ -1,0 +1,13 @@
+-different levels of criminal culpability or criminal reponsibility
+-explain the following terms as applied in the commission and omission of cybercrime by giving appropriate example
+	purposely
+	willfully
+	recklessly
+	negligently
+<for any crime to go through, demonstrate the above>
+-categories of cybercrime <3>
+-benefits of cyber resilience strategies during and after cyberrattacks
+-common cyberattack targets within any financial sector
+cyberkill stages
+-outline and explain the sub domain of cybersecurity
+- best practices to ensure secure online transaction
